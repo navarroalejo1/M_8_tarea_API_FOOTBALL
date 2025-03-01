@@ -1,18 +1,17 @@
 import streamlit as st
+
+# 🔹 Configuración de la página (Debe ser lo PRIMERO que se ejecute)
+st.set_page_config(page_title="Dashboard de Jugadores", layout="wide")
+
 from authentication import login, logout, check_authentication
 from navigation import navigate
 
-# 🔹 Configuración de la página
-st.set_page_config(page_title="Dashboard de Jugadores", layout="wide")
-
-# 🔹
-
-# 🔹 Verificar autenticación antes de ejecutar cualquier otro código
+# 🔹 Verificar autenticación antes de cargar datos o mostrar cualquier otra cosa
 if not check_authentication():
     login()
     st.stop()  # 🔹 Detiene la ejecución aquí hasta que el usuario inicie sesión
 
-# Si el usuario está autenticado, se muestra la navegación
+# 🔹 Si el usuario está autenticado, cargar datos y mostrar la navegación
 navigate()
 st.sidebar.button("Cerrar Sesión", on_click=logout)
 

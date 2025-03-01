@@ -19,8 +19,8 @@ def load_data():
         # Normalizar nombres de columnas
         df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
 
-        # Mostrar las columnas disponibles en el DataFrame para depuración
-        st.write("Columnas disponibles en el DataFrame:", df.columns.tolist())
+        # Reemplazar valores NaN o vacíos por 0
+        df.fillna(0, inplace=True)
 
         return df
     except FileNotFoundError:
