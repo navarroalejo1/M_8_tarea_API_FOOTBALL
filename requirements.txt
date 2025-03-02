@@ -7,3 +7,4 @@ fpdf
 fpdf
 requests
 pillow
+tempfile
