@@ -1,0 +1,453 @@
+Fecha,Equipo Local,Equipo Visitante,Goles Local,Goles Visitante,Estado
+2023-01-25T01:00:00+00:00,Bucaramanga,Envigado,0,0,Match Finished
+2023-01-25T20:10:00+00:00,Union Magdalena,Huila,2,1,Match Finished
+2023-01-25T22:20:00+00:00,Rionegro Aguilas,Junior,1,1,Match Finished
+2023-01-26T21:00:00+00:00,Chico,Alianza Petrolera,2,0,Match Finished
+2023-01-27T01:20:00+00:00,Atletico Nacional,Once Caldas,1,0,Match Finished
+2023-01-27T22:20:00+00:00,Jaguares,Santa Fe,2,2,Match Finished
+2023-01-27T23:10:00+00:00,Deportes Tolima,America de Cali,2,1,Match Finished
+2023-01-28T20:10:00+00:00,Envigado,La Equidad,1,1,Match Finished
+2023-01-28T22:20:00+00:00,Huila,Bucaramanga,1,2,Match Finished
+2023-01-29T20:10:00+00:00,Atletico Nacional,Rionegro Aguilas,0,0,Match Finished
+2023-01-29T22:20:00+00:00,Deportivo Pereira,Millonarios,2,3,Match Finished
+2023-01-30T00:30:00+00:00,Junior,Independiente Medellin,1,1,Match Finished
+2023-01-31T01:10:00+00:00,Once Caldas,Deportes Tolima,1,1,Match Finished
+2023-01-31T21:00:00+00:00,Chico,Jaguares,1,0,Match Finished
+2023-02-01T23:10:00+00:00,America de Cali,Union Magdalena,4,0,Match Finished
+2023-02-03T23:00:00+00:00,Deportivo Pereira,Huila,2,1,Match Finished
+2023-02-04T20:30:00+00:00,Independiente Medellin,Santa Fe,1,1,Match Finished
+2023-02-04T22:45:00+00:00,Jaguares,Atletico Nacional,2,1,Match Finished
+2023-02-05T01:00:00+00:00,Deportivo Pasto,America de Cali,2,4,Match Finished
+2023-02-05T20:15:00+00:00,Deportivo Cali,Once Caldas,0,0,Match Finished
+2023-02-05T22:30:00+00:00,Bucaramanga,Junior,1,0,Match Finished
+2023-02-06T00:45:00+00:00,Union Magdalena,Envigado,1,1,Match Finished
+2023-02-06T23:00:00+00:00,Rionegro Aguilas,Deportes Tolima,4,2,Match Finished
+2023-02-09T23:05:00+00:00,Junior,Union Magdalena,0,0,Match Finished
+2023-02-10T23:00:00+00:00,Alianza Petrolera,Huila,2,0,Match Finished
+2023-02-11T01:10:00+00:00,Jaguares,Bucaramanga,1,1,Match Finished
+2023-02-11T19:00:00+00:00,Envigado,Independiente Medellin,2,1,Match Finished
+2023-02-12T01:30:00+00:00,America de Cali,La Equidad,1,1,Match Finished
+2023-02-12T19:00:00+00:00,Chico,Deportivo Pereira,3,1,Match Finished
+2023-02-12T23:20:00+00:00,Once Caldas,Rionegro Aguilas,1,2,Match Finished
+2023-02-13T01:10:00+00:00,Atletico Nacional,Deportivo Cali,1,1,Match Finished
+2023-02-15T01:00:00+00:00,Santa Fe,Deportivo Pasto,0,2,Match Finished
+2023-02-16T01:00:00+00:00,La Equidad,Independiente Medellin,2,1,Match Finished
+2023-02-18T01:00:00+00:00,Huila,Deportes Tolima,0,0,Match Finished
+2023-02-18T19:00:00+00:00,Envigado,Alianza Petrolera,0,0,Match Finished
+2023-02-18T21:10:00+00:00,Independiente Medellin,America de Cali,0,1,Match Finished
+2023-02-19T01:30:00+00:00,Deportivo Pasto,Junior,1,0,Match Finished
+2023-02-19T19:00:00+00:00,Deportivo Pereira,Once Caldas,3,1,Match Finished
+2023-02-19T21:10:00+00:00,La Equidad,Santa Fe,0,1,Match Finished
+2023-02-19T23:20:00+00:00,Millonarios,Jaguares,2,1,Match Finished
+2023-02-20T00:30:00+00:00,Bucaramanga,Atletico Nacional,1,1,Match Finished
+2023-02-21T01:05:00+00:00,Deportivo Cali,Rionegro Aguilas,1,1,Match Finished
+2023-02-25T01:00:00+00:00,Rionegro Aguilas,Bucaramanga,1,0,Match Finished
+2023-02-25T21:00:00+00:00,Junior,La Equidad,1,0,Match Finished
+2023-02-26T01:20:00+00:00,America de Cali,Envigado,1,0,Match Finished
+2023-02-26T19:00:00+00:00,Santa Fe,Union Magdalena,0,0,Match Finished
+2023-02-26T21:10:00+00:00,Once Caldas,Millonarios,1,0,Match Finished
+2023-02-26T23:10:00+00:00,Jaguares,Deportivo Pereira,2,0,Match Finished
+2023-02-27T01:30:00+00:00,Alianza Petrolera,Independiente Medellin,0,1,Match Finished
+2023-02-27T22:00:00+00:00,Atletico Nacional,Huila,3,1,Match Finished
+2023-02-27T23:00:00+00:00,Chico,Deportivo Pasto,1,1,Match Finished
+2023-02-27T23:20:00+00:00,Deportes Tolima,Deportivo Cali,1,2,Match Finished
+2023-03-01T23:00:00+00:00,Deportivo Cali,Deportivo Pereira,0,1,Match Finished
+2023-03-04T01:10:00+00:00,Bucaramanga,Once Caldas,0,1,Match Finished
+2023-03-04T19:00:00+00:00,La Equidad,Alianza Petrolera,1,1,Match Finished
+2023-03-04T21:10:00+00:00,Envigado,Santa Fe,3,2,Match Finished
+2023-03-05T01:30:00+00:00,Independiente Medellin,Rionegro Aguilas,3,0,Match Finished
+2023-03-05T20:30:00+00:00,Millonarios,Deportivo Cali,2,0,Match Finished
+2023-03-05T22:40:00+00:00,Deportivo Pasto,Atletico Nacional,0,1,Match Finished
+2023-03-05T23:20:00+00:00,Union Magdalena,Jaguares,1,1,Match Finished
+2023-03-06T00:50:00+00:00,Deportivo Pereira,Deportes Tolima,1,1,Match Finished
+2023-03-07T01:00:00+00:00,Huila,Chico,3,2,Match Finished
+2023-03-10T01:00:00+00:00,Alianza Petrolera,Deportivo Pasto,3,1,Match Finished
+2023-03-11T00:40:00+00:00,Jaguares,Huila,1,2,Match Finished
+2023-03-11T21:00:00+00:00,Deportivo Cali,Bucaramanga,1,1,Match Finished
+2023-03-12T01:20:00+00:00,Chico,Independiente Medellin,2,0,Match Finished
+2023-03-12T21:00:00+00:00,Rionegro Aguilas,Deportivo Pereira,2,1,Match Finished
+2023-03-12T23:10:00+00:00,Atletico Nacional,Millonarios,0,0,Match Finished
+2023-03-13T01:20:00+00:00,Alianza Petrolera,Union Magdalena,2,1,Match Finished
+2023-03-13T23:10:00+00:00,Junior,Envigado,1,2,Match Finished
+2023-03-14T01:10:00+00:00,Once Caldas,Deportivo Pasto,0,1,Match Finished
+2023-03-14T23:00:00+00:00,Deportes Tolima,La Equidad,1,0,Match Finished
+2023-03-15T01:10:00+00:00,Santa Fe,America de Cali,2,0,Match Finished
+2023-03-18T01:00:00+00:00,Deportivo Pereira,Atletico Nacional,0,2,Match Finished
+2023-03-18T19:00:00+00:00,Envigado,Chico,0,1,Match Finished
+2023-03-18T21:10:00+00:00,La Equidad,Union Magdalena,0,0,Match Finished
+2023-03-19T01:30:00+00:00,Junior,Santa Fe,1,1,Match Finished
+2023-03-19T20:30:00+00:00,America de Cali,Alianza Petrolera,1,0,Match Finished
+2023-03-19T22:45:00+00:00,Millonarios,Rionegro Aguilas,2,2,Match Finished
+2023-03-19T23:20:00+00:00,Deportivo Pasto,Deportivo Cali,2,1,Match Finished
+2023-03-20T01:00:00+00:00,Independiente Medellin,Jaguares,1,0,Match Finished
+2023-03-21T01:20:00+00:00,Huila,Once Caldas,2,1,Match Finished
+2023-03-21T23:10:00+00:00,Bucaramanga,Deportes Tolima,1,1,Match Finished
+2023-03-22T15:15:00+00:00,Santa Fe,Deportivo Cali,3,0,Match Finished
+2023-03-23T01:00:00+00:00,Millonarios,Deportivo Pasto,2,0,Match Finished
+2023-03-23T23:00:00+00:00,La Equidad,Chico,2,2,Match Finished
+2023-03-24T01:10:00+00:00,America de Cali,Junior,2,0,Match Finished
+2023-03-25T01:10:00+00:00,Rionegro Aguilas,Envigado,1,0,Match Finished
+2023-03-25T19:00:00+00:00,Once Caldas,Deportivo Pereira,1,1,Match Finished
+2023-03-25T21:10:00+00:00,Alianza Petrolera,Bucaramanga,2,0,Match Finished
+2023-03-26T01:30:00+00:00,Deportes Tolima,Huila,2,1,Match Finished
+2023-03-26T20:15:00+00:00,Union Magdalena,Junior,2,2,Match Finished
+2023-03-26T22:20:00+00:00,Atletico Nacional,Independiente Medellin,1,1,Match Finished
+2023-03-27T00:45:00+00:00,Santa Fe,Millonarios,1,2,Match Finished
+2023-03-27T22:30:00+00:00,Deportivo Cali,America de Cali,1,1,Match Finished
+2023-03-28T01:05:00+00:00,Jaguares,Deportivo Pasto,0,1,Match Finished
+2023-03-29T01:15:00+00:00,Chico,La Equidad,3,1,Match Finished
+2023-03-30T01:00:00+00:00,Deportes Tolima,Millonarios,1,1,Match Finished
+2023-03-31T23:00:00+00:00,Deportivo Pasto,Deportivo Pereira,0,0,Match Finished
+2023-04-01T01:10:00+00:00,Santa Fe,Chico,1,0,Match Finished
+2023-04-01T19:00:00+00:00,Envigado,Once Caldas,0,0,Match Finished
+2023-04-01T21:10:00+00:00,Independiente Medellin,Deportes Tolima,1,1,Match Finished
+2023-04-02T01:30:00+00:00,Bucaramanga,Millonarios,0,2,Match Finished
+2023-04-02T21:00:00+00:00,America de Cali,Jaguares,0,0,Match Finished
+2023-04-02T23:20:00+00:00,La Equidad,Atletico Nacional,0,0,Match Finished
+2023-04-03T01:20:00+00:00,Huila,Deportivo Cali,1,0,Match Finished
+2023-04-03T23:10:00+00:00,Union Magdalena,Rionegro Aguilas,3,1,Match Finished
+2023-04-04T01:10:00+00:00,Junior,Alianza Petrolera,1,0,Match Finished
+2023-04-07T22:00:00+00:00,Rionegro Aguilas,Huila,2,1,Match Finished
+2023-04-08T19:00:00+00:00,Once Caldas,Union Magdalena,1,1,Match Finished
+2023-04-08T21:10:00+00:00,Jaguares,Envigado,2,0,Match Finished
+2023-04-09T01:30:00+00:00,Millonarios,Independiente Medellin,2,1,Match Finished
+2023-04-09T19:00:00+00:00,Deportivo Pereira,Bucaramanga,1,1,Match Finished
+2023-04-09T23:20:00+00:00,Deportivo Cali,La Equidad,0,0,Match Finished
+2023-04-10T23:00:00+00:00,Atletico Nacional,Junior,0,1,Match Finished
+2023-04-10T23:20:00+00:00,Alianza Petrolera,Santa Fe,3,1,Match Finished
+2023-04-11T01:05:00+00:00,Deportes Tolima,Deportivo Pasto,3,1,Match Finished
+2023-04-11T21:00:00+00:00,La Equidad,Once Caldas,4,1,Match Finished
+2023-04-12T01:20:00+00:00,America de Cali,Rionegro Aguilas,1,3,Match Finished
+2023-04-12T20:30:00+00:00,Union Magdalena,Deportivo Pereira,0,3,Match Finished
+2023-04-12T23:10:00+00:00,Huila,Millonarios,1,1,Match Finished
+2023-04-13T01:00:00+00:00,Independiente Medellin,Deportivo Cali,3,0,Match Finished
+2023-04-13T20:30:00+00:00,Envigado,Deportes Tolima,2,1,Match Finished
+2023-04-13T23:00:00+00:00,Deportivo Pasto,Bucaramanga,1,0,Match Finished
+2023-04-14T01:10:00+00:00,Junior,Chico,1,1,Match Finished
+2023-04-15T01:05:00+00:00,Alianza Petrolera,Jaguares,3,0,Match Finished
+2023-04-15T23:00:00+00:00,Deportivo Cali,Union Magdalena,2,1,Match Finished
+2023-04-16T01:10:00+00:00,Deportivo Pereira,Santa Fe,2,2,Match Finished
+2023-04-16T19:00:00+00:00,Bucaramanga,Independiente Medellin,1,2,Match Finished
+2023-04-16T21:10:00+00:00,Deportes Tolima,Junior,0,1,Match Finished
+2023-04-17T01:30:00+00:00,Rionegro Aguilas,Chico,2,0,Match Finished
+2023-04-18T00:40:00+00:00,Huila,Deportivo Pasto,1,1,Match Finished
+2023-04-18T23:00:00+00:00,Once Caldas,Alianza Petrolera,1,2,Match Finished
+2023-04-19T01:10:00+00:00,Jaguares,La Equidad,1,1,Match Finished
+2023-04-20T01:00:00+00:00,Chico,America de Cali,1,1,Match Finished
+2023-04-22T00:40:00+00:00,Deportivo Pasto,Rionegro Aguilas,0,0,Match Finished
+2023-04-22T19:00:00+00:00,La Equidad,Huila,2,1,Match Finished
+2023-04-22T21:10:00+00:00,Alianza Petrolera,Deportivo Cali,0,3,Match Finished
+2023-04-23T01:30:00+00:00,Santa Fe,Bucaramanga,3,0,Match Finished
+2023-04-23T21:00:00+00:00,Envigado,Atletico Nacional,0,0,Match Finished
+2023-04-23T23:20:00+00:00,Junior,Jaguares,1,0,Match Finished
+2023-04-24T01:20:00+00:00,Chico,Deportes Tolima,2,0,Match Finished
+2023-04-24T23:10:00+00:00,Union Magdalena,Millonarios,1,1,Match Finished
+2023-04-25T01:10:00+00:00,America de Cali,Deportivo Pereira,2,1,Match Finished
+2023-04-25T21:00:00+00:00,Bucaramanga,Alianza Petrolera,1,1,Match Finished
+2023-04-26T01:20:00+00:00,Huila,Independiente Medellin,2,3,Match Finished
+2023-04-26T19:00:00+00:00,Once Caldas,Chico,1,1,Match Finished
+2023-04-26T21:10:00+00:00,Deportes Tolima,Jaguares,1,1,Match Finished
+2023-04-26T23:10:00+00:00,Deportivo Pasto,La Equidad,1,1,Match Finished
+2023-04-27T01:30:00+00:00,Atletico Nacional,Union Magdalena,2,0,Match Finished
+2023-04-27T21:00:00+00:00,Deportivo Pereira,Envigado,0,0,Match Finished
+2023-04-27T23:20:00+00:00,Rionegro Aguilas,Santa Fe,3,1,Match Finished
+2023-04-28T01:20:00+00:00,Millonarios,America de Cali,4,3,Match Finished
+2023-04-28T23:10:00+00:00,Deportivo Cali,Junior,3,2,Match Finished
+2023-04-29T19:00:00+00:00,Santa Fe,Deportes Tolima,2,0,Match Finished
+2023-04-29T21:10:00+00:00,Union Magdalena,Deportivo Pasto,2,1,Match Finished
+2023-04-30T01:30:00+00:00,Independiente Medellin,Atletico Nacional,1,3,Match Finished
+2023-04-30T19:00:00+00:00,La Equidad,Deportivo Pereira,2,0,Match Finished
+2023-04-30T21:10:00+00:00,Junior,Millonarios,1,0,Match Finished
+2023-04-30T23:20:00+00:00,Alianza Petrolera,Rionegro Aguilas,2,1,Match Finished
+2023-05-01T01:30:00+00:00,Chico,Bucaramanga,0,0,Match Finished
+2023-05-01T20:00:00+00:00,Envigado,Huila,0,1,Match Finished
+2023-05-01T22:15:00+00:00,Jaguares,Once Caldas,1,0,Match Finished
+2023-05-01T23:20:00+00:00,America de Cali,Deportivo Cali,5,2,Match Finished
+2023-05-04T23:05:00+00:00,Millonarios,Envigado,1,1,Match Finished
+2023-05-05T01:15:00+00:00,Atletico Nacional,America de Cali,2,1,Match Finished
+2023-05-05T23:30:00+00:00,Rionegro Aguilas,La Equidad,1,1,Match Finished
+2023-05-06T21:05:00+00:00,Bucaramanga,Union Magdalena,3,0,Match Finished
+2023-05-06T23:15:00+00:00,Deportes Tolima,Alianza Petrolera,2,1,Match Finished
+2023-05-07T01:25:00+00:00,Once Caldas,Junior,2,0,Match Finished
+2023-05-07T19:00:00+00:00,Deportivo Pereira,Independiente Medellin,3,1,Match Finished
+2023-05-07T21:10:00+00:00,Atletico Nacional,Chico,3,1,Match Finished
+2023-05-08T01:30:00+00:00,Deportivo Pasto,Jaguares,4,0,Match Finished
+2023-05-08T23:15:00+00:00,Deportivo Cali,Envigado,2,0,Match Finished
+2023-05-08T23:20:00+00:00,Millonarios,Santa Fe,1,0,Match Finished
+2023-05-09T01:30:00+00:00,Huila,America de Cali,0,2,Match Finished
+2023-05-10T23:00:00+00:00,Union Magdalena,Chico,0,0,Match Finished
+2023-05-11T01:10:00+00:00,Millonarios,Alianza Petrolera,3,1,Match Finished
+2023-05-11T23:00:00+00:00,Independiente Medellin,Once Caldas,2,2,Match Finished
+2023-05-12T01:00:00+00:00,Santa Fe,Atletico Nacional,0,2,Match Finished
+2023-05-12T21:00:00+00:00,Envigado,Rionegro Aguilas,1,2,Match Finished
+2023-05-12T23:05:00+00:00,Jaguares,Deportivo Cali,1,1,Match Finished
+2023-05-13T01:15:00+00:00,La Equidad,Bucaramanga,1,0,Match Finished
+2023-05-13T21:10:00+00:00,Union Magdalena,Deportes Tolima,1,1,Match Finished
+2023-05-14T01:30:00+00:00,Junior,Deportivo Pereira,0,0,Match Finished
+2023-05-14T19:00:00+00:00,Independiente Medellin,Deportivo Pasto,1,0,Match Finished
+2023-05-14T21:10:00+00:00,America de Cali,Once Caldas,0,0,Match Finished
+2023-05-14T23:20:00+00:00,Chico,Millonarios,1,1,Match Finished
+2023-05-15T01:30:00+00:00,Santa Fe,Huila,5,0,Match Finished
+2023-05-15T23:20:00+00:00,Alianza Petrolera,Atletico Nacional,2,1,Match Finished
+2023-05-18T00:00:00+00:00,Millonarios,La Equidad,0,0,Match Finished
+2023-05-18T00:00:00+00:00,Deportivo Pasto,Envigado,2,1,Match Finished
+2023-05-18T00:00:00+00:00,Deportivo Cali,Chico,0,0,Match Finished
+2023-05-18T00:00:00+00:00,Independiente Medellin,Union Magdalena,4,0,Match Finished
+2023-05-18T00:00:00+00:00,Huila,Junior,0,2,Match Finished
+2023-05-18T00:00:00+00:00,Bucaramanga,America de Cali,2,1,Match Finished
+2023-05-18T00:00:00+00:00,Once Caldas,Santa Fe,3,1,Match Finished
+2023-05-18T00:00:00+00:00,Deportes Tolima,Atletico Nacional,2,2,Match Finished
+2023-05-18T00:00:00+00:00,Rionegro Aguilas,Jaguares,3,0,Match Finished
+2023-05-18T00:00:00+00:00,Deportivo Pereira,Alianza Petrolera,2,1,Match Finished
+2023-05-20T22:00:00+00:00,Deportivo Pasto,Atletico Nacional,1,1,Match Finished
+2023-05-21T01:00:00+00:00,Independiente Medellin,Millonarios,2,2,Match Finished
+2023-05-21T23:00:00+00:00,Chico,America de Cali,1,1,Match Finished
+2023-05-22T23:00:00+00:00,Alianza Petrolera,Rionegro Aguilas,5,3,Match Finished
+2023-05-28T01:15:00+00:00,Millonarios,Chico,1,0,Match Finished
+2023-05-28T15:00:00+00:00,Rionegro Aguilas,Deportivo Pasto,0,0,Match Finished
+2023-05-28T23:05:00+00:00,Atletico Nacional,Alianza Petrolera,1,1,Match Finished
+2023-05-29T01:15:00+00:00,America de Cali,Independiente Medellin,2,0,Match Finished
+2023-05-31T23:15:00+00:00,Chico,Independiente Medellin,1,0,Match Finished
+2023-06-01T01:30:00+00:00,America de Cali,Millonarios,0,1,Match Finished
+2023-06-01T23:15:00+00:00,Deportivo Pasto,Alianza Petrolera,0,0,Match Finished
+2023-06-02T01:30:00+00:00,Atletico Nacional,Rionegro Aguilas,1,0,Match Finished
+2023-06-04T01:30:00+00:00,Millonarios,America de Cali,2,1,Match Finished
+2023-06-04T23:05:00+00:00,Rionegro Aguilas,Atletico Nacional,0,1,Match Finished
+2023-06-04T23:20:00+00:00,Independiente Medellin,Chico,0,0,Match Finished
+2023-06-05T01:15:00+00:00,Alianza Petrolera,Deportivo Pasto,1,0,Match Finished
+2023-06-11T00:30:00+00:00,Deportivo Pasto,Rionegro Aguilas,3,0,Match Finished
+2023-06-11T23:30:00+00:00,Chico,Millonarios,2,1,Match Finished
+2023-06-12T22:00:00+00:00,Independiente Medellin,America de Cali,0,1,Match Finished
+2023-06-13T00:30:00+00:00,Alianza Petrolera,Atletico Nacional,0,0,Match Finished
+2023-06-17T22:15:00+00:00,Millonarios,Independiente Medellin,2,1,Match Finished
+2023-06-17T22:15:00+00:00,America de Cali,Chico,3,2,Match Finished
+2023-06-18T01:00:00+00:00,Atletico Nacional,Deportivo Pasto,3,2,Match Finished
+2023-06-18T01:00:00+00:00,Rionegro Aguilas,Alianza Petrolera,1,1,Match Finished
+2023-06-22T01:00:00+00:00,Atletico Nacional,Millonarios,0,0,Match Finished
+2023-06-25T00:00:00+00:00,Millonarios,Atletico Nacional,1,1,Match Finished
+2023-07-14T21:00:00+00:00,Envigado,Bucaramanga,1,3,Match Finished
+2023-07-15T00:40:00+00:00,Huila,Union Magdalena,2,1,Match Finished
+2023-07-15T21:00:00+00:00,Independiente Medellin,La Equidad,2,2,Match Finished
+2023-07-15T23:10:00+00:00,Junior,Rionegro Aguilas,0,1,Match Finished
+2023-07-16T01:20:00+00:00,Deportivo Pasto,Millonarios,0,0,Match Finished
+2023-07-16T22:15:00+00:00,America de Cali,Deportes Tolima,1,0,Match Finished
+2023-07-17T00:30:00+00:00,Once Caldas,Atletico Nacional,1,1,Match Finished
+2023-07-18T01:00:00+00:00,Deportivo Pereira,Deportivo Cali,0,2,Match Finished
+2023-07-20T01:00:00+00:00,Santa Fe,Jaguares,1,0,Match Finished
+2023-07-21T21:00:00+00:00,Deportes Tolima,Once Caldas,3,1,Match Finished
+2023-07-21T23:15:00+00:00,La Equidad,Envigado,1,1,Match Finished
+2023-07-22T01:30:00+00:00,Deportivo Pasto,Alianza Petrolera,1,1,Match Finished
+2023-07-23T01:30:00+00:00,Millonarios,Deportivo Pereira,0,0,Match Finished
+2023-07-23T20:45:00+00:00,Bucaramanga,Huila,1,0,Match Finished
+2023-07-24T01:10:00+00:00,Independiente Medellin,Junior,1,0,Match Finished
+2023-07-25T00:00:00+00:00,Jaguares,Chico,2,1,Match Finished
+2023-07-29T21:00:00+00:00,Deportes Tolima,Rionegro Aguilas,1,1,Match Finished
+2023-07-29T23:10:00+00:00,Alianza Petrolera,Millonarios,1,0,Match Finished
+2023-07-30T01:20:00+00:00,Atletico Nacional,Jaguares,2,1,Match Finished
+2023-07-30T20:30:00+00:00,Once Caldas,Deportivo Cali,4,0,Match Finished
+2023-07-30T22:45:00+00:00,America de Cali,Deportivo Pasto,1,1,Match Finished
+2023-07-31T01:00:00+00:00,Huila,Deportivo Pereira,2,0,Match Finished
+2023-07-31T21:00:00+00:00,Envigado,Union Magdalena,0,0,Match Finished
+2023-07-31T23:10:00+00:00,Chico,La Equidad,0,2,Match Finished
+2023-08-01T01:20:00+00:00,Junior,Bucaramanga,1,1,Match Finished
+2023-08-03T00:30:00+00:00,Santa Fe,Independiente Medellin,1,0,Match Finished
+2023-08-04T23:15:00+00:00,Huila,Alianza Petrolera,0,0,Match Finished
+2023-08-05T01:30:00+00:00,Rionegro Aguilas,Once Caldas,2,1,Match Finished
+2023-08-05T21:00:00+00:00,Union Magdalena,Junior,0,0,Match Finished
+2023-08-05T23:10:00+00:00,Deportivo Pereira,Chico,1,1,Match Finished
+2023-08-06T01:20:00+00:00,Independiente Medellin,Envigado,1,0,Match Finished
+2023-08-06T21:00:00+00:00,La Equidad,America de Cali,1,1,Match Finished
+2023-08-06T23:10:00+00:00,Deportivo Cali,Atletico Nacional,1,1,Match Finished
+2023-08-07T01:20:00+00:00,Deportivo Pasto,Santa Fe,2,0,Match Finished
+2023-08-07T22:15:00+00:00,Bucaramanga,Jaguares,3,0,Match Finished
+2023-08-08T00:30:00+00:00,Millonarios,Deportes Tolima,1,0,Match Finished
+2023-08-10T23:00:00+00:00,Alianza Petrolera,Envigado,3,1,Match Finished
+2023-08-12T01:30:00+00:00,Deportes Tolima,Huila,1,0,Match Finished
+2023-08-12T21:10:00+00:00,Santa Fe,La Equidad,1,1,Match Finished
+2023-08-12T23:20:00+00:00,Rionegro Aguilas,Deportivo Cali,1,0,Match Finished
+2023-08-13T01:30:00+00:00,Once Caldas,Deportivo Pereira,1,0,Match Finished
+2023-08-13T21:00:00+00:00,America de Cali,Independiente Medellin,1,3,Match Finished
+2023-08-13T23:10:00+00:00,Jaguares,Millonarios,2,0,Match Finished
+2023-08-13T23:20:00+00:00,Junior,Deportivo Pasto,0,0,Match Finished
+2023-08-14T01:20:00+00:00,Atletico Nacional,Bucaramanga,2,1,Match Finished
+2023-08-15T00:40:00+00:00,Chico,Union Magdalena,0,0,Match Finished
+2023-08-19T21:00:00+00:00,Deportivo Pereira,Jaguares,3,0,Match Finished
+2023-08-19T23:10:00+00:00,Union Magdalena,Santa Fe,2,2,Match Finished
+2023-08-20T01:20:00+00:00,La Equidad,Junior,0,0,Match Finished
+2023-08-20T21:00:00+00:00,Deportivo Pasto,Chico,1,1,Match Finished
+2023-08-20T23:10:00+00:00,Independiente Medellin,Alianza Petrolera,2,1,Match Finished
+2023-08-21T01:20:00+00:00,Huila,Atletico Nacional,0,1,Match Finished
+2023-08-21T21:00:00+00:00,Bucaramanga,Rionegro Aguilas,1,1,Match Finished
+2023-08-22T00:00:00+00:00,Millonarios,Once Caldas,2,1,Match Finished
+2023-08-22T23:15:00+00:00,Jaguares,Union Magdalena,0,1,Match Finished
+2023-08-23T21:45:00+00:00,Alianza Petrolera,La Equidad,1,0,Match Finished
+2023-08-23T23:15:00+00:00,Santa Fe,Envigado,2,0,Match Finished
+2023-08-24T01:30:00+00:00,Junior,America de Cali,4,3,Match Finished
+2023-08-24T21:00:00+00:00,Chico,Huila,1,1,Match Finished
+2023-08-25T01:30:00+00:00,Deportivo Cali,Millonarios,0,0,Match Finished
+2023-08-25T23:15:00+00:00,Once Caldas,Bucaramanga,1,0,Match Finished
+2023-08-25T23:20:00+00:00,Atletico Nacional,Deportivo Pasto,2,0,Match Finished
+2023-08-26T01:30:00+00:00,Rionegro Aguilas,Independiente Medellin,1,1,Match Finished
+2023-08-26T21:00:00+00:00,Envigado,Junior,1,2,Match Finished
+2023-08-26T23:10:00+00:00,Union Magdalena,Alianza Petrolera,2,0,Match Finished
+2023-08-27T01:20:00+00:00,La Equidad,Deportes Tolima,0,0,Match Finished
+2023-08-27T21:00:00+00:00,Millonarios,Atletico Nacional,1,0,Match Finished
+2023-08-27T23:10:00+00:00,America de Cali,Santa Fe,2,0,Match Finished
+2023-08-28T01:20:00+00:00,Huila,Jaguares,0,0,Match Finished
+2023-08-28T23:15:00+00:00,Independiente Medellin,Chico,1,1,Match Finished
+2023-08-29T01:30:00+00:00,Bucaramanga,Deportivo Cali,1,0,Match Finished
+2023-08-30T01:10:00+00:00,Deportivo Pasto,Once Caldas,1,0,Match Finished
+2023-08-30T23:15:00+00:00,Union Magdalena,America de Cali,0,0,Match Finished
+2023-08-31T01:30:00+00:00,Rionegro Aguilas,Atletico Nacional,2,0,Match Finished
+2023-09-01T23:05:00+00:00,Chico,Envigado,1,0,Match Finished
+2023-09-02T01:10:00+00:00,Deportes Tolima,Bucaramanga,0,0,Match Finished
+2023-09-02T21:45:00+00:00,Jaguares,Independiente Medellin,1,1,Match Finished
+2023-09-02T23:10:00+00:00,Santa Fe,Junior,1,0,Match Finished
+2023-09-03T01:20:00+00:00,Alianza Petrolera,America de Cali,2,3,Match Finished
+2023-09-03T21:00:00+00:00,Atletico Nacional,Deportivo Pereira,2,0,Match Finished
+2023-09-03T23:10:00+00:00,Rionegro Aguilas,Millonarios,2,0,Match Finished
+2023-09-04T01:20:00+00:00,Deportivo Cali,Deportivo Pasto,4,0,Match Finished
+2023-09-04T23:10:00+00:00,Union Magdalena,La Equidad,1,0,Match Finished
+2023-09-05T01:20:00+00:00,Once Caldas,Huila,1,2,Match Finished
+2023-09-06T01:10:00+00:00,Alianza Petrolera,Chico,1,1,Match Finished
+2023-09-06T21:05:00+00:00,Envigado,America de Cali,0,0,Match Finished
+2023-09-06T23:10:00+00:00,Deportes Tolima,Deportivo Pereira,2,3,Match Finished
+2023-09-07T01:20:00+00:00,Deportivo Cali,Santa Fe,2,2,Match Finished
+2023-09-09T00:40:00+00:00,Deportivo Pasto,Jaguares,1,0,Match Finished
+2023-09-09T21:00:00+00:00,La Equidad,Chico,0,0,Match Finished
+2023-09-09T23:10:00+00:00,Junior,Union Magdalena,7,1,Match Finished
+2023-09-10T01:20:00+00:00,Independiente Medellin,Atletico Nacional,1,0,Match Finished
+2023-09-10T21:00:00+00:00,Deportivo Pereira,Once Caldas,1,2,Match Finished
+2023-09-10T23:10:00+00:00,America de Cali,Deportivo Cali,3,0,Match Finished
+2023-09-11T01:20:00+00:00,Millonarios,Santa Fe,2,4,Match Finished
+2023-09-11T21:00:00+00:00,Envigado,Rionegro Aguilas,2,2,Match Finished
+2023-09-11T23:15:00+00:00,Huila,Deportes Tolima,3,0,Match Finished
+2023-09-12T01:30:00+00:00,Bucaramanga,Alianza Petrolera,0,1,Match Finished
+2023-09-13T21:00:00+00:00,Deportivo Pereira,Deportivo Pasto,2,1,Match Finished
+2023-09-13T22:45:00+00:00,Chico,Santa Fe,1,1,Match Finished
+2023-09-13T23:10:00+00:00,Jaguares,America de Cali,0,1,Match Finished
+2023-09-14T01:20:00+00:00,Atletico Nacional,La Equidad,5,0,Match Finished
+2023-09-14T21:30:00+00:00,Deportes Tolima,Independiente Medellin,1,1,Match Finished
+2023-09-14T22:45:00+00:00,Rionegro Aguilas,Union Magdalena,2,1,Match Finished
+2023-09-14T23:40:00+00:00,Deportivo Cali,Huila,1,0,Match Finished
+2023-09-15T01:50:00+00:00,Alianza Petrolera,Junior,1,5,Match Finished
+2023-09-15T23:15:00+00:00,Once Caldas,Envigado,0,0,Match Finished
+2023-09-16T01:30:00+00:00,Millonarios,Bucaramanga,3,0,Match Finished
+2023-09-17T01:15:00+00:00,America de Cali,Chico,5,0,Match Finished
+2023-09-17T21:00:00+00:00,Santa Fe,Alianza Petrolera,0,1,Match Finished
+2023-09-17T23:10:00+00:00,Junior,Atletico Nacional,1,1,Match Finished
+2023-09-18T00:00:00+00:00,Huila,Rionegro Aguilas,1,1,Match Finished
+2023-09-18T01:20:00+00:00,Deportivo Pasto,Deportes Tolima,1,2,Match Finished
+2023-09-18T21:00:00+00:00,Envigado,Jaguares,1,0,Match Finished
+2023-09-18T21:30:00+00:00,Union Magdalena,Once Caldas,1,1,Match Finished
+2023-09-18T23:40:00+00:00,Bucaramanga,Deportivo Pereira,1,1,Match Finished
+2023-09-19T01:50:00+00:00,Independiente Medellin,Millonarios,1,1,Match Finished
+2023-09-20T01:20:00+00:00,La Equidad,Deportivo Cali,1,1,Match Finished
+2023-09-20T21:00:00+00:00,Chico,Junior,2,1,Match Finished
+2023-09-20T23:10:00+00:00,Rionegro Aguilas,America de Cali,2,2,Match Finished
+2023-09-21T01:20:00+00:00,Atletico Nacional,Santa Fe,3,0,Match Finished
+2023-09-21T21:00:00+00:00,Deportivo Pereira,Union Magdalena,1,2,Match Finished
+2023-09-21T22:45:00+00:00,Deportes Tolima,Envigado,2,0,Match Finished
+2023-09-21T23:10:00+00:00,Bucaramanga,Deportivo Pasto,0,2,Match Finished
+2023-09-22T01:20:00+00:00,Millonarios,Huila,2,1,Match Finished
+2023-09-22T21:30:00+00:00,Jaguares,Alianza Petrolera,0,0,Match Finished
+2023-09-22T23:40:00+00:00,Once Caldas,La Equidad,1,1,Match Finished
+2023-09-23T01:50:00+00:00,Deportivo Cali,Independiente Medellin,2,2,Match Finished
+2023-09-23T21:00:00+00:00,Chico,Rionegro Aguilas,0,1,Match Finished
+2023-09-24T01:20:00+00:00,America de Cali,Atletico Nacional,4,1,Match Finished
+2023-09-24T23:10:00+00:00,Santa Fe,Deportivo Pereira,1,0,Match Finished
+2023-09-25T01:20:00+00:00,Junior,Deportes Tolima,0,1,Match Finished
+2023-09-25T15:00:00+00:00,Envigado,Millonarios,1,2,Match Finished
+2023-09-25T21:15:00+00:00,La Equidad,Jaguares,2,0,Match Finished
+2023-09-26T01:35:00+00:00,Independiente Medellin,Bucaramanga,2,0,Match Finished
+2023-09-26T23:15:00+00:00,Union Magdalena,Deportivo Cali,3,4,Match Finished
+2023-09-26T23:25:00+00:00,Alianza Petrolera,Once Caldas,2,1,Match Finished
+2023-09-27T01:30:00+00:00,Deportivo Pasto,Huila,1,0,Match Finished
+2023-09-29T23:00:00+00:00,Jaguares,Junior,0,0,Match Finished
+2023-09-30T01:10:00+00:00,Deportes Tolima,Chico,2,0,Match Finished
+2023-09-30T21:00:00+00:00,Bucaramanga,Santa Fe,1,1,Match Finished
+2023-09-30T23:10:00+00:00,Atletico Nacional,Envigado,3,0,Match Finished
+2023-10-01T00:00:00+00:00,Rionegro Aguilas,Deportivo Pasto,3,0,Match Finished
+2023-10-01T01:20:00+00:00,Deportivo Pereira,America de Cali,2,4,Match Finished
+2023-10-01T21:00:00+00:00,Once Caldas,Independiente Medellin,2,2,Match Finished
+2023-10-02T00:30:00+00:00,Deportivo Cali,Alianza Petrolera,1,0,Match Finished
+2023-10-03T01:10:00+00:00,Huila,La Equidad,1,1,Match Finished
+2023-10-06T23:00:00+00:00,Jaguares,Deportes Tolima,0,1,Match Finished
+2023-10-07T01:10:00+00:00,Junior,Deportivo Cali,3,2,Match Finished
+2023-10-07T21:00:00+00:00,Envigado,Deportivo Pereira,2,3,Match Finished
+2023-10-07T23:10:00+00:00,Union Magdalena,Atletico Nacional,2,1,Match Finished
+2023-10-08T01:20:00+00:00,Santa Fe,Rionegro Aguilas,0,5,Match Finished
+2023-10-08T21:00:00+00:00,La Equidad,Deportivo Pasto,1,0,Match Finished
+2023-10-08T23:10:00+00:00,Independiente Medellin,Huila,2,0,Match Finished
+2023-10-09T01:20:00+00:00,Chico,Once Caldas,2,1,Match Finished
+2023-10-11T01:00:00+00:00,Alianza Petrolera,Bucaramanga,1,0,Match Finished
+2023-10-11T23:15:00+00:00,Deportivo Cali,Deportes Tolima,2,0,Match Finished
+2023-10-12T01:30:00+00:00,Deportivo Pereira,Rionegro Aguilas,0,0,Match Finished
+2023-10-13T23:00:00+00:00,Deportivo Pasto,Union Magdalena,3,1,Match Finished
+2023-10-14T01:10:00+00:00,Once Caldas,Jaguares,0,0,Match Finished
+2023-10-14T21:00:00+00:00,Deportivo Pereira,La Equidad,1,0,Match Finished
+2023-10-14T23:10:00+00:00,Atletico Nacional,Independiente Medellin,1,2,Match Finished
+2023-10-15T01:20:00+00:00,Millonarios,Junior,1,0,Match Finished
+2023-10-15T21:00:00+00:00,Rionegro Aguilas,Alianza Petrolera,3,0,Match Finished
+2023-10-15T23:10:00+00:00,Deportivo Cali,America de Cali,0,0,Match Finished
+2023-10-16T01:20:00+00:00,Deportes Tolima,Santa Fe,1,0,Match Finished
+2023-10-16T23:05:00+00:00,Huila,Envigado,3,3,Match Finished
+2023-10-17T01:15:00+00:00,Bucaramanga,Chico,1,0,Match Finished
+2023-10-19T01:00:00+00:00,Millonarios,Union Magdalena,1,1,Match Finished
+2023-10-20T21:00:00+00:00,Envigado,Deportivo Cali,3,0,Match Finished
+2023-10-20T23:10:00+00:00,Jaguares,Deportivo Pasto,1,0,Match Finished
+2023-10-21T01:20:00+00:00,La Equidad,Rionegro Aguilas,1,1,Match Finished
+2023-10-21T21:00:00+00:00,Santa Fe,Millonarios,2,3,Match Finished
+2023-10-21T23:10:00+00:00,Union Magdalena,Bucaramanga,1,2,Match Finished
+2023-10-22T01:20:00+00:00,Junior,Once Caldas,1,0,Match Finished
+2023-10-22T21:00:00+00:00,Chico,Atletico Nacional,1,3,Match Finished
+2023-10-22T23:10:00+00:00,Independiente Medellin,Deportivo Pereira,1,0,Match Finished
+2023-10-23T01:20:00+00:00,Alianza Petrolera,Deportes Tolima,0,1,Match Finished
+2023-10-24T01:00:00+00:00,America de Cali,Huila,1,0,Match Finished
+2023-10-24T23:00:00+00:00,Rionegro Aguilas,Envigado,3,1,Match Finished
+2023-10-25T01:10:00+00:00,Deportivo Cali,Jaguares,2,0,Match Finished
+2023-10-25T21:00:00+00:00,Bucaramanga,La Equidad,2,3,Match Finished
+2023-10-25T23:10:00+00:00,Deportivo Pereira,Junior,0,2,Match Finished
+2023-10-26T01:20:00+00:00,Millonarios,Chico,1,1,Match Finished
+2023-10-26T21:00:00+00:00,Deportivo Pasto,Independiente Medellin,0,0,Match Finished
+2023-10-26T23:10:00+00:00,Once Caldas,America de Cali,1,1,Match Finished
+2023-10-27T01:20:00+00:00,Atletico Nacional,Alianza Petrolera,2,0,Match Finished
+2023-10-27T23:00:00+00:00,Huila,Santa Fe,2,2,Match Finished
+2023-10-28T01:10:00+00:00,Deportes Tolima,Union Magdalena,2,1,Match Finished
+2023-10-31T01:00:00+00:00,America de Cali,Millonarios,1,0,Match Finished
+2023-11-08T00:30:00+00:00,Envigado,Deportivo Pasto,1,1,Match Finished
+2023-11-08T00:30:00+00:00,Chico,Deportivo Cali,1,1,Match Finished
+2023-11-08T00:30:00+00:00,Junior,Huila,2,0,Match Finished
+2023-11-08T00:30:00+00:00,Santa Fe,Once Caldas,0,1,Match Finished
+2023-11-08T00:30:00+00:00,Alianza Petrolera,Deportivo Pereira,2,1,Match Finished
+2023-11-09T00:30:00+00:00,Jaguares,Rionegro Aguilas,0,1,Match Finished
+2023-11-09T00:30:00+00:00,La Equidad,Millonarios,2,1,Match Finished
+2023-11-09T00:30:00+00:00,Atletico Nacional,Deportes Tolima,2,3,Match Finished
+2023-11-09T00:30:00+00:00,America de Cali,Bucaramanga,1,2,Match Finished
+2023-11-09T00:30:00+00:00,Union Magdalena,Independiente Medellin,0,4,Match Finished
+2023-11-12T22:00:00+00:00,Atletico Nacional,Millonarios,0,1,Match Finished
+2023-11-13T00:30:00+00:00,America de Cali,Independiente Medellin,1,2,Match Finished
+2023-11-13T22:00:00+00:00,Deportivo Cali,Rionegro Aguilas,1,1,Match Finished
+2023-11-14T00:30:00+00:00,Deportes Tolima,Junior,3,1,Match Finished
+2023-11-18T22:00:00+00:00,Rionegro Aguilas,Deportes Tolima,0,4,Match Finished
+2023-11-19T00:30:00+00:00,Junior,Deportivo Cali,3,0,Match Finished
+2023-11-19T21:00:00+00:00,Millonarios,America de Cali,2,1,Match Finished
+2023-11-19T23:30:00+00:00,Independiente Medellin,Atletico Nacional,2,1,Match Finished
+2023-11-25T22:00:00+00:00,Deportes Tolima,Deportivo Cali,4,2,Match Finished
+2023-11-26T00:30:00+00:00,Junior,Rionegro Aguilas,3,1,Match Finished
+2023-11-26T21:00:00+00:00,Millonarios,Independiente Medellin,1,0,Match Finished
+2023-11-26T23:30:00+00:00,Atletico Nacional,America de Cali,1,0,Match Finished
+2023-11-29T23:15:00+00:00,Rionegro Aguilas,Junior,1,1,Match Finished
+2023-11-30T01:30:00+00:00,Deportivo Cali,Deportes Tolima,0,2,Match Finished
+2023-11-30T23:15:00+00:00,America de Cali,Atletico Nacional,0,1,Match Finished
+2023-12-01T01:30:00+00:00,Independiente Medellin,Millonarios,2,1,Match Finished
+2023-12-02T23:00:00+00:00,Deportes Tolima,Rionegro Aguilas,0,1,Match Finished
+2023-12-03T01:15:00+00:00,Deportivo Cali,Junior,0,2,Match Finished
+2023-12-03T20:30:00+00:00,Atletico Nacional,Independiente Medellin,0,5,Match Finished
+2023-12-04T00:00:00+00:00,America de Cali,Millonarios,1,0,Match Finished
+2023-12-06T23:00:00+00:00,Millonarios,Atletico Nacional,0,1,Match Finished
+2023-12-06T23:00:00+00:00,Rionegro Aguilas,Deportivo Cali,3,1,Match Finished
+2023-12-07T01:15:00+00:00,Independiente Medellin,America de Cali,2,1,Match Finished
+2023-12-07T01:15:00+00:00,Junior,Deportes Tolima,4,2,Match Finished
+2023-12-10T21:00:00+00:00,Junior,Independiente Medellin,3,2,Match Finished
+2023-12-14T01:00:00+00:00,Independiente Medellin,Junior,2,1,Match Finished

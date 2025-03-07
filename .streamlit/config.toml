@@ -1,0 +1,11 @@
+# Configuración del tema de Streamlit
+[theme]
+base="dark"
+primaryColor="#00ff00"
+backgroundColor="#000000"
+secondaryBackgroundColor="#1e1e1e"
+textColor="#ffffff"
+
+# Configuración de autenticación
+[authentication]
+usuarios_validos = { admin = "admin" }
